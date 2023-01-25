@@ -1,10 +1,16 @@
 # react-modal-lib
 
-[![npm](https://img.shields.io/npm/v/react-simplified-modal.svg)](https://www.npmjs.com/package/react-simplified-modal)
-![npm](https://img.shields.io/npm/dw/react-simplified-modal.svg)
-![GitHub issues](https://img.shields.io/github/issues/devaman/react-simplified-modal.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/devaman/react-simplified-modal.svg)
-[![HitCount](http://hits.dwyl.io/devaman/react-simplified-modal.svg)](http://hits.dwyl.io/devaman/react-simplified-modal)
+## Installation
+To install, you can use npm or yarn:
+
+```
+npm install react-modal-lib --save
+
+or
+
+yarn add react-modal-lib
+```
+
 
 ## Import the modal.
 
